@@ -31,6 +31,7 @@ export const  App = () => {
 
   return (
     <div className='App'>
+      <h1>Коля Привет</h1>
       <Enquiry
         score={score}
         setScore={setScore}
