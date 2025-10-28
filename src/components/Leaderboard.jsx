@@ -24,7 +24,7 @@ export const  Leaderboard = ({ setShowLeaderboard, leaderboard }) => {
               </li>
             ))
           ) : (
-            <p>Лидерборд загружается...</p>
+            <p>Коля Привет</p>
           )}
         </ul>
       </div>
