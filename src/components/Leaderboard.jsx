@@ -7,7 +7,7 @@ export const  Leaderboard = ({ setShowLeaderboard, leaderboard }) => {
   return (
     <div className='Leaderboard'>
       <div className='header-leaderboard'>
-        <h1 className='leaderboard-title'>Топ игроков</h1>
+        <h1 className='leaderboard-title'>Коля Привет</h1>
       </div>
       <div className='content-leaderboard'>
         <ul className='leaderboard-list'>
