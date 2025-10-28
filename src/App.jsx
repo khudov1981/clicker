@@ -31,7 +31,7 @@ export const  App = () => {
 
   return (
     <div className='App'>
-      <h1>Коля Привет</h1>
+      
       <Enquiry
         score={score}
         setScore={setScore}
@@ -50,7 +50,7 @@ export const  App = () => {
               <h2 className='score'><span id='score'>{score}</span></h2>
             </div>
             <div className='button-container'>
-              <button className='button-click' onClick={handleClick}>Нажми</button>
+              <button className='button-click' onClick={handleClick}>Кликни</button>
             </div>
           </div>
           <div className='footer'>
